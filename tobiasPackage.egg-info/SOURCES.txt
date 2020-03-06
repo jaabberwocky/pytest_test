@@ -1,0 +1,8 @@
+setup.py
+tobiasPackage/__init__.py
+tobiasPackage/main.py
+tobiasPackage/prettyFunctions.py
+tobiasPackage.egg-info/PKG-INFO
+tobiasPackage.egg-info/SOURCES.txt
+tobiasPackage.egg-info/dependency_links.txt
+tobiasPackage.egg-info/top_level.txt
