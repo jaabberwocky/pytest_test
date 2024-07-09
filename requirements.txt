@@ -10,5 +10,5 @@ six==1.14.0
 testpackage==0.0.0
 -e git+https://github.com/jaabberwocky/pytest_test.git@3792b848d73d994cdadd15d722f8e2d71368ab93#egg=tobiasPackage
 wcwidth==0.1.8
-zipp==3.1.0
+zipp==3.19.1
 pre-commit
